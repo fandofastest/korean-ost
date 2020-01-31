@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631682662509",
+    "firebase_url": "https://drakorost-952ab.firebaseio.com",
+    "project_id": "drakorost-952ab",
+    "storage_bucket": "drakorost-952ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631682662509:android:ad0d316a0b27b83e8bff64",
+        "android_client_info": {
+          "package_name": "com.drakor.ostmusicmp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631682662509-qu6onrhfrvkltp2bpm8elthdf8cfjaj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMtC8Kph1nx6DIlhNMvdhA1lqQbbz7pD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631682662509-qu6onrhfrvkltp2bpm8elthdf8cfjaj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
